@@ -1,0 +1,9 @@
+[package]
+name = "faction"
+version = "0.1.0"
+authors = ["Dan Nemeth <dan.nemeth@gmail.com>", "Kevin Hoffman <alothien@gmail.com>"]
+description = "A library for managing a faction table cache in Redis."
+license = "MIT/Apache-2.0"
+
+[dependencies]
+redis = "0.8.0"
